@@ -51,7 +51,7 @@ Just a quick reference for myself for HTTP Status when doing API testing
 - 415	Unsupported Media Type
 - 416	Range Not Satisfiable
 - 417	Expectation Failed
-- 418	I’m a teapot      **lol**
+- 418	***I’m a teapot*** :joy:
 - 421	Misdirected Request
 - 426	Upgrade Required
 - 428	Precondition Required
