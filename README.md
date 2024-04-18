@@ -1,6 +1,6 @@
 # HTTP-Status-cheatsheet
 
-Just a quick reference for myself for HTTP Status when doing API testing
+Just a quick reference for myself and my team for HTTP Status when doing API testing
 
 ## 100 - 199 Informational Responses
 
